@@ -1,0 +1,14 @@
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\command\FriendCMD.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\DatabaseManager.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\FriendDatabase.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\PlayerProfile.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\repository\BlockRepository.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\repository\FriendRepository.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\repository\FriendRequestRepository.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\repository\FriendSettingsRepository.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\database\repository\PlayerRepository.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\listener\PlayerJoinListener.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\RenatusFriends.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\service\FriendManager.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\service\FriendNotificationService.java
+C:\Users\Kenny Lee\Desktop\RenatusFriends\src\main\java\com\nova\common\renatusFriends\util\MessageUtils.java

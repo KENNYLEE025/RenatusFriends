@@ -1,0 +1,15 @@
+com\nova\common\renatusFriends\database\FriendDatabase.class
+com\nova\common\renatusFriends\RenatusFriends.class
+com\nova\common\renatusFriends\service\FriendNotificationService.class
+com\nova\common\renatusFriends\util\MessageUtils.class
+com\nova\common\renatusFriends\command\FriendCMD.class
+com\nova\common\renatusFriends\service\FriendManager.class
+velocity-plugin.json
+com\nova\common\renatusFriends\database\PlayerProfile.class
+com\nova\common\renatusFriends\database\repository\BlockRepository.class
+com\nova\common\renatusFriends\database\repository\FriendRepository.class
+com\nova\common\renatusFriends\database\repository\FriendSettingsRepository.class
+com\nova\common\renatusFriends\listener\PlayerJoinListener.class
+com\nova\common\renatusFriends\database\repository\PlayerRepository.class
+com\nova\common\renatusFriends\database\repository\FriendRequestRepository.class
+com\nova\common\renatusFriends\database\DatabaseManager.class
