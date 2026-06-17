@@ -14,9 +14,7 @@ This plugin uses:
 ## Who Is This For?
 
 This plugin is intended for:
-- Server administrators running a **Velocity-based proxy** network
-- Networks that want to provide friend management features across multiple backend servers
-- Communities like the **Renatus Network** that need cross-server social features
+- Renatus Network's Friend Command replacement
 
 ## Prerequisites
 
